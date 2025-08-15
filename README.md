@@ -11,7 +11,7 @@
 <div align="left">
   
   ### 🛠️ Tech & Tools
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,gcp,firebase,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,gcp,firebase,postgres" /><br>
 
 </div>
 

@@ -11,17 +11,8 @@
 <div align="left">
   
   ### 🛠️ Tech & Tools
-  <img src="https://skillicons.dev/icons?i=flutter,dart,gcp,firebase,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,gcp,firebase,postgres" /><br>
 
-</div>
-
-
-<div align="left">
-
-  ### 📊 GitHub Stats
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nicolasdrosdoski&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdrosdoski&layout=compact&langs_count=7&theme=radical"/>
-  
 </div>
 
 <picture>
